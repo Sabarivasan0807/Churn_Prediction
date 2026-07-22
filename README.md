@@ -4,7 +4,7 @@
 The model uses customer information such as usage behavior, subscription details, payment history, and other relevant features to predict the likelihood of customer churn. </h5>
 
 ##  Objective
- <h5>The main objective of this project is to predict potential customer churn in advance. This helps businesses take proactive actions to retain customers, improve customer satisfaction, and reduce revenue loss.</h5>
+ <h5> The main objective of this project is to predict potential customer churn in advance. This helps businesses take proactive actions to retain customers, improve customer satisfaction, and reduce revenue loss.</h5>
  
 ##  Technologies Used
 -  Python
